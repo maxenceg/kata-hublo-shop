@@ -47,7 +47,7 @@ Products can be sorted by name, price or weight
 ## Questions 
 
 1. Following the business rules create an endpoint to add a product in the database.
-2. How can you ensure that only an admin can add a product to a shop.
+2. How can you ensure that only a user with an admin or an employee role can add a product to a shop.
 
 ## Advices
 
