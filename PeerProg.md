@@ -57,5 +57,5 @@ You can use decorator from this package to validate your input data. [see class 
 
 #### Class transformer
 
-You can use [class transformer](https://github.com/typestack/class-transformer) to transform domain object into DTO.
+You can use [class transformer](https://github.com/typestack/class-transformer) to map domain object into DTO.
 
